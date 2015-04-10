@@ -4,7 +4,7 @@
 
 #druga klasa, ktora generuje stan, np., zeby przejsc przez bramke musze miec 2 zl cnt musi podjac decyzje na podstawie czegosc
 
-  
+
 # musimy dac iles czasu na otwarcie bramki i znowu
 
 import random
